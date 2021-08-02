@@ -2,14 +2,12 @@
 
 This is the code for the final assessment project for Udacity's React & Redux course.
 
-## Available Scripts
+## To run the Application locally:
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+-   Install all project dependencies with `npm install`
+-   Start the app with with `npm start`
+    ( Runs the app in the development mode.)<br>
+-   Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 ## Backend Server

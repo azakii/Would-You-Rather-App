@@ -42,7 +42,7 @@ class QuestionItem extends Component {
                 </Card.Text>
                 <Link
                   className="btn btn-dark"
-                  to={`/question/${id}`}
+                  to={`/questions/${id}`}
                 >
                   {button}
                 </Link>

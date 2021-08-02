@@ -6,7 +6,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 import { handleInitialData } from "./redux/actions/sharedActions";
 import QuestionList from "./layout/QuestionList";
-import newQuestions from "./layout/NewQuestions";
+import AddPoll from "./layout/AddPoll";
 import Leaderboard from "./layout/Leaderboard";
 import PageNotFound from "./layout/PageNotFound";
 import Header from "./layout/shared/Header";
@@ -39,9 +39,9 @@ class App extends Component {
               <Header />
               <Switch>
                 <Route path="/" exact component={QuestionList} />
-                <Route path="/addNewQuestion" exact component={newQuestions} />
+                <Route path="/add" exact component={AddPoll} />
                 <Route path="/leaderboard" exact component={Leaderboard} />
-                <Route path="/question/:id" component={ViewItem} />
+                <Route path="/questions/:id" component={ViewItem} />
                 <Route component={PageNotFound} />
               </Switch>
             </React.Fragment>

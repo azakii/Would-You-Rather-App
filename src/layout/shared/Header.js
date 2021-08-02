@@ -16,7 +16,7 @@ export default class Header extends Component {
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
               <Nav className="me-auto">
-                <NavLink className="nav-link" activeClassName="active" to="/addNewQuestion">New Question</NavLink>
+                <NavLink className="nav-link" activeClassName="active" to="/add">New Question</NavLink>
                 <NavLink className="nav-link" activeClassName="active" to="/leaderboard">leaderboard</NavLink>
               </Nav>
               <Nav>

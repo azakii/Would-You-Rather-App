@@ -13,7 +13,7 @@ function mapStateToProps({ authedUser }) {
   };
 }
 
-class newQuestions extends Component {
+class AddPoll extends Component {
   state = {
     optionOneText: "",
     optionTwoText: "",
@@ -106,4 +106,4 @@ class newQuestions extends Component {
 }
 
 
-export default connect(mapStateToProps)(newQuestions);
+export default connect(mapStateToProps)(AddPoll);
