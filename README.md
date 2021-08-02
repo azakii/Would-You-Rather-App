@@ -20,16 +20,16 @@ To simplify the development process, Udacity has provided a pseudo backend serve
 ## Preview
 
 1. **Login**
-<img src="https://github.com/azakii/Would-You-Rather/blob/main/blob/main/screenshots/U4.PNG" />
+<img src="https://github.com/azakii/Would-You-Rather-App/blob/main/blob/main/screenshots/U4.PNG" />
 
 2. **Home**
-<img src="https://github.com/azakii/Would-You-Rather/blob/main/blob/main/screenshots/U1.PNG" />
+<img src="https://github.com/azakii/Would-You-Rather-App/blob/main/blob/main/screenshots/U1.PNG" />
 
 3. **Question**
-<img src="https://github.com/azakii/Would-You-Rather/blob/main/blob/main/screenshots/U2.PNG" />
+<img src="https://github.com/azakii/Would-You-Rather-App/blob/main/blob/main/screenshots/U2.PNG" />
 
 4. **Answer**
-<img src="https://github.com/azakii/Would-You-Rather/blob/main/blob/main/screenshots/U5.PNG" />
+<img src="https://github.com/azakii/Would-You-Rather-App/blob/main/blob/main/screenshots/U5.PNG" />
 
 6. **Leaderboard**
-<img src="https://github.com/azakii/Would-You-Rather/blob/main/blob/main/screenshots/U3.PNG" />
+<img src="https://github.com/azakii/Would-You-Rather-App/blob/main/blob/main/screenshots/U3.PNG" />
