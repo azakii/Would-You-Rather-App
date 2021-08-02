@@ -36,3 +36,62 @@
     transform: rotate(360deg);
   }
 }
+
+
+.logo {
+  height: 60px;
+}
+.nav-link {
+  color: white;
+}
+.mr-3 {
+  margin-right: 15px;
+}
+.ml-3 {
+  margin-left: 15px;
+}
+.card {
+
+}
+.card-body .card-title, .card-body .card-text, .card h5 {
+    text-align: left;
+}
+.card-body .btn {
+  width: 100%;
+}
+.card {
+  margin-bottom: 1.5rem;
+}
+.card:last-child {
+  margin-bottom: 0rem;
+}
+.dropdown-menu {
+  width: 100%;
+}
+.dropdown-toggle::after {
+  margin-left: 1rem;
+}
+.dropdown-menu {
+  font-weight: 700;
+}
+.dropdown-menu a {
+  border-bottom: 1px #f2f2f2 solid;
+}
+.dropdown-menu button {
+  font-weight: 700;
+}
+.dropdown-menu button:focus {
+  color:white;
+}
+.username {
+  font-size: 1rem;
+}
+
+.btn-secondary.disabled, .btn-secondary:disabled {  
+  background-color: #000000;
+  opacity: 1;
+}
+.error img {
+  width: auto;
+}
+.login button { text-align:left;}
